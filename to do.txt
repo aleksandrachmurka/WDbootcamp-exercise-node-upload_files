@@ -1,0 +1,4 @@
+Dla chêtnych:
+
+    Stwórz template dla uploadu, analogicznie do start.html
+    Ostyluj aplikacjê i dodaj wysy³anie styli do klienta
